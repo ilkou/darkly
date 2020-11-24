@@ -1,0 +1,4 @@
+cross-site Scripting (XSS) in :
+http://10.11.100.162/index.php?page=feedback
+
+Type a script in the feedback or name input.
