@@ -7,7 +7,7 @@ and save information about each user’s session.
 
 ### FLAG
 
-if we check the BornToSec website's cookies (inspecter -> Application -> Storage -> Cookies),
+if we check the BornToSec website's cookies (inspect -> Application -> Storage -> Cookies),
 we will notice a variable named `I_am_admin` with an encrypted value (in md5 for some reason),
 we decrypt this md5 value to give us 'false', so we changed this value to the encrypted value of 'true'.
 
