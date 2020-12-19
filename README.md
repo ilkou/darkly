@@ -9,3 +9,5 @@ Introductory project to computer security in web, this project will make you dis
 * [OWASP](https://cheatsheetseries.owasp.org/) - OWASP Cheat Sheet Series
 * [MD5](https://md5decrypt.net/) - MD5() Encrypt & Decrypt
 * [Sh256](https://md5decrypt.net/Sha256/) - Sha256() Encrypt & Decrypt
+
+![alt text](https://github.com/ilkou/darkly/blob/master/ressources/exploits_of_a_mom.png "meme")
