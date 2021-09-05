@@ -7,6 +7,7 @@ Introductory project to computer security in web, this project will make you dis
 ## Useful Links
 
 * [OWASP](https://cheatsheetseries.owasp.org/) - OWASP Cheat Sheet Series
+* [Web Security Academy](https://portswigger.net/web-security) - Free, online web security training
 * [MD5](https://md5decrypt.net/) - MD5() Encrypt & Decrypt
 * [Sh256](https://md5decrypt.net/Sha256/) - Sha256() Encrypt & Decrypt
 
